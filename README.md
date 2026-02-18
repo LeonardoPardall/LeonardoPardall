@@ -78,6 +78,5 @@
 ---
 
 <p align="center">
-  ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoPardall&show_icons=true&theme=radical)  
   Made with ❤️ by Leonardo Pardal
 </p>
