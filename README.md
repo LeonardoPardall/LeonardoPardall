@@ -6,7 +6,7 @@
 ---
 
 ## 🎓 About Me
-- 20 years old 🌍 Portuguese | Based in Lisbon, Portugal  
+- 21 years old 🌍 Portuguese | Based in Lisbon, Portugal  
 - Computer Science student (Licenciatura em Engenharia Informática, Faculdade de Ciências, Universidade de Lisboa), expected graduation Summer 2026  
 - Interested in **software engineering, algorithms, and mathematics**  
 - Enjoy **building projects, solving problems, and delivering high-quality software**  
