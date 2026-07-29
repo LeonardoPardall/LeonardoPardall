@@ -7,7 +7,7 @@
 
 ## 🎓 About Me
 - 21 years old 🌍 Portuguese | Based in Lisbon, Portugal  
-- Computer Science student (Licenciatura em Engenharia Informática, Faculdade de Ciências, Universidade de Lisboa), expected graduation Summer 2026  
+- Computer Science and Engineering Bachelor
 - Interested in **software engineering, algorithms, and mathematics**  
 - Enjoy **building projects, solving problems, and delivering high-quality software**  
 - Experience in **distributed systems** and **cybersecurity**  
@@ -74,8 +74,3 @@
 - Email: [leonardopardal881@gmail.com](mailto:leonardopardal881@gmail.com)  
 - GitHub: [https://github.com/LeonardoPardall](https://github.com/LeonardoPardall)  
 
----
-
-<p align="center">
-  Made with ❤️ by Leonardo Pardal
-</p>
