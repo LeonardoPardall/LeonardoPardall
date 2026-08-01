@@ -12,7 +12,6 @@
 - Enjoy **building projects, solving problems, and delivering high-quality software**  
 - Experience in **distributed systems** and **cybersecurity**  
 
-> Full portfolio and projects are available on GitHub
 
 ---
 
